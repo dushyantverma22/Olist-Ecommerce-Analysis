@@ -10,3 +10,11 @@ The data is divided in multiple datasets for better understanding and organizati
 
 ![image](https://github.com/user-attachments/assets/6d04d1bd-363c-49a5-8302-b018f8ae1db8)
 
+## Analysis to Aim For
+Here are some inspiration for possible outcomes from this dataset.
+1. NLP: This dataset offers a supreme environment to parse out the reviews text through its multiple dimensions.
+2. Clustering: Some customers didn't write a review. But why are they happy or mad?
+3. Sales Prediction: With purchase date information you'll be able to predict future sales.
+4. Delivery Performance: You will also be able to work through delivery performance and find ways to optimize delivery times.
+5. Product Quality: Enjoy yourself discovering the products categories that are more prone to customer insatisfaction.
+6. Feature Engineering:: Create features from this rich dataset or attach some external public information to it.
